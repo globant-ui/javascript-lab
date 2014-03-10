@@ -32,12 +32,12 @@ ToDO
   * No library or framework can be used. You can reuse the libraries developed in the previous exercises.
   * Provide unit tests, [Jasmine](http://jasmine.github.io/2.0/introduction.html) can be used.
 
-4. Single-Page Application Development. Create an application that allows a user to:
+6. Single-Page Application Development. Create an application that allows a user to:
   1. Authenticate to GitHub.
   2. List all starred repositories she has.
   3. Present a detailed view of a repository.
   4. Allow her to unstar, watch, and unwatch a given repository.
-  5.This exercise will be evaluated on the basis of design, and code quality. 
+  5. This exercise will be evaluated on the basis of design, and code quality. 
     - The game must be structured following a sane object-oriented structure. Implementation must reflect JavaScript best practices. The application must work across all major browsers (IE9+, Chrome, Firefox, Safari).
     - No library or framework can be used. You can reuse the libraries developed in the previous exercises.
     - Provide unit tests, [Jasmine](http://jasmine.github.io/2.0/introduction.html) can be used.
