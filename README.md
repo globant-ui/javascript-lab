@@ -15,7 +15,7 @@ The lab will be considered completed by the developer once he has finished all t
 Please fork this repository, and send a PR as soon as the lab is finished. Afterwards, the PR will be evaluated by an architect or senior developer.
 
 ##Reading material
-ToDO
+* https://github.com/globant-ui/javascript-style-guide#resources
 
 ##Exercises
 1. Complete the following JavaScript assessment: https://github.com/rmurphey/js-assessment
